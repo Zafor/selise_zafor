@@ -5,4 +5,4 @@
 # Theme: boibitan
 # Plugin: myorder
 
-# All the files inside wp-content folder
+** All the files inside wp-content folder
